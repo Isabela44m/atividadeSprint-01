@@ -1,0 +1,16 @@
+{
+  "name": "central_de_informacoes",
+  "version": "1.0.0",
+  "description": "Central de Infromações da Escola",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "express": "^5.3.0"
+  }
+}
